@@ -30,7 +30,7 @@ twitter_username: 1bipe
 github_username:  bipe
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
